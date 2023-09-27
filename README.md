@@ -1,13 +1,16 @@
-# Team Name
+# GVSU-CIS641-4WIZ
 
 Project description (~1 paragraph)
 
-## Team Members and Roles
+# TEAM-$WIZ
 
-* Member 1 (Role 1, Role 2)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+## LIST OF TEAM MEMBERS
 
-## Prerequisites
+*[SHANKARI SUNDARAM](https://github.com/shankymurali/CIS641-HW2-Sundaram)
 
-## Run Instructions
+*[VENKAT JEEVAN KADALI](https://github.com/VENKAT1706/CIS641-HW2-KADALI)
+
+*[DOLLY SRI VEMULA](https://github.com/dolly101599/CIS641-HW2-Vemula)
+
+*[MANIDEEP ABBIDI](https://github.com/manideepreddyabbidi/CIS641-HW2-Abbidi)
+
