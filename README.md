@@ -3,7 +3,7 @@
 In today's interconnected world, communication has transcended boundaries. With the advent of smartphones and social media, staying in touch with friends and family across the globe has become effortless. Instant messaging apps allow us to exchange messages, photos, and videos in real-time, fostering constant connection and sharing of life's moments. These tools have transformed how we interact, making distance a mere inconvenience and reinforcing the importance of meaningful communication in our lives. However, while technology facilitates communication, it's essential to strike a balance between virtual and face-to-face interactions to maintain the richness of human relationships.
 
 
-# TEAM-4WIZ
+# TEAM-4WIZ 
 
 ## LIST OF TEAM MEMBERS
 
