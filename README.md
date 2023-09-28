@@ -9,7 +9,7 @@ In today's interconnected world, communication has transcended boundaries. With 
 
 [SHANKARI SUNDARAM](https://github.com/shankymurali/CIS641-HW2-Sundaram)
 
-Dolly Sri Vemula
+[Dolly Sri Vemula](https://github.com/dolly101599/CIS641-HW2-Vemula)
 
 [venkat Jeevan](https://github.com/VENKAT1706/CIS641-HW2-kadali) 
 
