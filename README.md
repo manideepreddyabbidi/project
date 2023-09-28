@@ -22,7 +22,7 @@
  -	Knowledge of web development frameworks such as Flask and HTML/JSP, is crucial for crafting the user-friendly graphical interface (GUI) of the recommendation system.
 
 ## Run Instructions
- - Environment setup
+ - Environment setup 
  - Installation of required software
  - Data collection
  - Code development
