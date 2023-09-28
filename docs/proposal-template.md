@@ -1,6 +1,6 @@
 # Team name: 4WIZ
 
-## Team members:
+# Team members:
  - Shankari Sundaram
  - Venkat Jeevan kadali
  - Dolly Sri Vemula
