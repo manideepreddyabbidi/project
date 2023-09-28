@@ -13,4 +13,4 @@ In today's interconnected world, communication has transcended boundaries. With 
 
 [venkat Jeevan](https://github.com/VENKAT1706/CIS641-HW2-kadali) 
 
-Mani
+[Manideep Abbidi] (https://github.com/manideepreddyabbidi/CIS641-HW2-Abbidi)
