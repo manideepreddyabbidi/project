@@ -23,9 +23,11 @@ Currently, we are aiming to run on local computers, which could require the foll
      * Documentation
 
 # LINKS
-     * [Antifact]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/artifacts)
-     * [Meetings]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/meetings)
-     * [Documents]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/docs)
-     * [Test cases]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/tests)
+    * [Antifact](https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/artifacts) 
+    * [Meetings]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/meetings) 
+    * [Documents]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/docs) 
+    * [Test cases]( https://github.com/shankymurali/GVSU-CIS-641-4WIZ/tree/main/tests) 
+
+    
 
 
