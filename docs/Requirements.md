@@ -1,4 +1,5 @@
-Functional Requirements
+### Requirements
+## Functional Requirements
 User Registration and Account Management
 FR1: The system shall allow users to register an account, providing their name, email, and a unique username.
 FR2: The system shall allow users to log in to access the application system.
