@@ -1,10 +1,10 @@
-#Team name: 4WIZ
+# Team name: 4WIZ
 
-##Team members:
- -Shankari Sundaram
- -Venkat Jeevan kadali
- -Dolly Sri Vemula
- -Manideep Abbidi
+# Team members:
+ - Shankari Sundaram
+ - Venkat Jeevan kadali
+ - Dolly Sri Vemula
+ - Manideep Abbidi
 
 # Introduction
 In our modern world, where health consciousness is on the rise, the significance of nutritious eating and balanced diets cannot be overstated. Knowing how to combine ingredients to create delicious and healthy meals is a valuable skill. However, for many, the task of choosing recipes that match their ingredients can be daunting, especially for beginners. This is where recommender systems come in, simplifying the process by offering personalized suggestions based on individual preferences and dietary needs. Our project focuses on the rich landscape of Indian cuisine, renowned for its diversity of dishes crafted from local spices, herbs, and ingredients. Using advanced techniques like cosine similarity, our personalized recipe recommendation system not only enhances user satisfaction but also promotes healthier eating habits by suggesting nutritionally balanced recipes. By reducing food wastage and offering tailored meal ideas, our project benefits users and the food industry alike, fostering engagement, providing valuable insights, and enhancing overall customer satisfaction.
