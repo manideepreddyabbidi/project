@@ -16,10 +16,10 @@
 ## RUN INSTRUCTIONS
 Currently, we are aiming to run on local computers, which could require the following elements.
      * Environment setup
-    	* Installation of required software
-    	* Data collection
-    	* Code development
-    	* Testing and evaluation
+     * Installation of required software
+     * Data collection
+     * Code development
+     * Testing and evaluation
      * Documentation
 
 # LINKS
