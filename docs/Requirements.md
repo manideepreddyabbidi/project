@@ -1,4 +1,4 @@
-# Requirements
+### Requirements
 ## Functional Requirements
 1. User Registration and Account Management
 * The system shall allow users to register an account, providing their name, email, and a unique username.
