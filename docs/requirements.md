@@ -1,36 +1,31 @@
-### Requirements
+## Requirements
 ## Functional Requirements
-1. login
-* The System SHALL allow customer, vendor and delivery agent to register an account.
-* The System SHALL allow user to login to the application system.
-* The System shall allow users to add their deatils like Name, address, phone number and  email.
+1. User Registration and Account Management
+* The system shall allow users to register an account, providing their name, email, and a unique username.
+* The system shall allow users to log in to access the application system.
+2. Ingredient Input and Recipe Recommendations
+* Users shall be able to input a list of ingredients they have or wish to use for cooking.
+* The system shall validate and process the user-inputted ingredients to ensure accurate and relevant recipe recommendations.
+* The system shall suggest ingredient substitutions for users based on their choices, accommodating dietary preferences and ingredient availability.
+3. Recipe Search and Viewing
+* Users shall search for recipes based on keywords, ingredients, cuisine, or dietary requirements.
+* Users shall have the capability to access detailed recipe information, including ingredients, cooking methods, and nutritional data.
+* Users shall be able to store their preferred recipes for quick access and future reference.
+User Interaction
+* Users shall have the ability to rate recipes, provide comments, and share their culinary creations with the community.
+## Non-Functional Requirements
+1. Performance and Scalability
+* The system shall respond quickly to multiple users, providing recipe recommendations within 3 seconds.
+* The system shall continually add new ingredients and recipes to maintain a growing database.
+* The system shall be built to support an increasing number of users and recipes without suffering significant performance reduction.
+* Load balancing shall distribute traffic across multiple servers for smooth performance during high-demand periods.
+2. Data Protection and Security
+* User data, including ingredient lists and personal information, shall be securely stored and protected from unauthorized access.
+* The system shall employ industry-standard encryption techniques to safeguard user credentials and data privacy.
+3. Usability and Quality Control
+* The system shall feature an intuitive, cross-device user interface for easy navigation on various devices.
+* Quality assurance procedures shall be established to ensure the precision and dependability of recipe recommendations.
 
-2. Selecting items
-* System SHALL enables the user to select the products that he wants to get home delivery.
-* There shall be a zoom option for product images on the page.
-* System SHALL allow users to pick products and buy.
 
-3. cart
-* User shall be able to select items from various categories.
-* System SHALL allow vendor to add products and services in the cart.
 
-4. Payment
-* Payment option shall be displayed when a user clicks on the payment icon.
-* Customers shall provide their card details to purchase products.
-* System SHALL support user to make the payment for the products that he/she selected.
-
-## Non Functional requirements
-
-1. Login
-* User shall be able to login with correct login details.
-* System SHALL respond quickly to multiple users. 
-* System SHALL allow user to consume less energy. 
-
-2. Payment
-* System SHALL run without any buffer during payment method. 
-* System SHALL secure sensitive data of User like card details.
-
-3. Adding items
-* The system shall be easy to navigate interface.
-* User shall be able to add items which are currently available.
 
