@@ -1,3 +1,4 @@
+## An SRS is a report that lays the foundation for all software engineering efforts once all requirements have been elicited and analyzed .It outlines the system and user requirements in detail. In our project, which focuses on recommending food recipes, the main objective is to provide users with a convenient platform to discover recipes tailored to their preferences. The goal is to enhance user engagement by offering a personalized recipe recommendation system.
 ## Requirements
 ## Functional Requirements
 1. User Registration and Account Management

@@ -1,2 +1,2 @@
 Placeholder for website
-view page(file:///C:/Users/mural/GVSU-CIS-641-4WIZ/website/projectwebsite/foodrecipe.html)
+view page(https://shankymurali.github.io/GVSU-CIS-641-4WIZ/website/foodrecipe.html)
