@@ -76,7 +76,7 @@ A food recipe recommendation system aims to provide users with a convenient plat
 | NFR32| As the number of concurrent users increases, the system shall maintain consistent response times for recipe searches and recommendations.|
 | NFR33| The application shall seamlessly integrate new features and enhancements to accommodate evolving user needs.|
 | NFR34|The system shall implement an auto-scaling mechanism to dynamically allocate resources based on the current demand, ensuring optimal performance during peak usage periods.|  
-| NFR35||The system shall have a decoupled architecture to enable independent scaling of different components.|
+| NFR35|The system shall have a decoupled architecture to enable independent scaling of different components.|
 
 ### Performance
 
@@ -127,7 +127,7 @@ A food recipe recommendation system aims to provide users with a convenient plat
 To ensure a smooth transition and user adoption, a comprehensive training program will be implemented. Initially, an online training session will be conducted for all users, providing step-by-step guidance on navigating the platform, searching for recipes, and utilizing personalized features. Additionally, multi-modal training resources including documentation, videos, live sessions, and in-app chatbots to guide users.
 
 ## How will you ensure it integrates within their ecosystem / software?
-Our recipe app offers an intuitive interface for easy onboarding. By validating core features like login work, we ensure key requirements are fulfilled. Flexible APIs facilitate data flows between the frontend and backend recommendation systems seamlessly. Cross-platform responsive design allows versatility across devices, thoroughly compatibility tested. Regular feedback refinement improve overall user experience, identifying any outstanding feasibility issues quickly so we can embed this app consistently across existing ecosystems
+Our recipe app offers an intuitive interface for easy onboarding. By validating core features like login work, we ensure key requirements are fulfilled. Flexible APIs facilitate data flows between the frontend and backend recommendation systems seamlessly. Cross-platform responsive design allows versatility across devices, thoroughly compatibility tested. Regular feedback refinement improve overall user experience, identifying any outstanding feasibility issues quickly so we can embed this app consistently across existing ecosystems.
 
 ## How will you ensure that it any discovered issues are resolved?
 An efficient issue resolution process will be implemented to address any identified concerns promptly. Users will have access to a dedicated support portal where they can report issues and receive timely updates on the resolution progress. A tiered support system will be established, with a team of technical experts available to tackle complex issues. Regular system audits and automated monitoring tools will be in place to proactively identify and resolve potential issues before users encounter them. Feedback from users will be actively sought and used to drive continuous improvement, ensuring a robust and reliable food recipe recommendation platform.
