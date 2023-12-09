@@ -76,7 +76,7 @@ A food recipe recommendation system aims to provide users with a convenient plat
 | NFR32| As the number of concurrent users increases, the system shall maintain consistent response times for recipe searches and recommendations.|
 | NFR33| The application shall seamlessly integrate new features and enhancements to accommodate evolving user needs.|
 | NFR34|The system shall implement an auto-scaling mechanism to dynamically allocate resources based on the current demand, ensuring optimal performance during peak usage periods.|  
-| NFR35||The system shall have a decoupled architecture to enable independent scaling of different components.|
+| NFR35|The system shall have a decoupled architecture to enable independent scaling of different components.|
 
 ### Performance
 
